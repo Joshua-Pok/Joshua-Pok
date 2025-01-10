@@ -2,7 +2,7 @@
 
 🏫 Final Year Student at Nanyang Technological University <br/>
 📖 Studied Information Engineering and Media <br/>
-🖥️ Strong Interest in Frontend Development <br/>
+🖥️ Frontend Development expanding into Full Stack <br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jpzk30) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jpzk30) 
